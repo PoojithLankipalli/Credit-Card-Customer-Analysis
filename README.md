@@ -10,7 +10,7 @@ This project gives overview of credit card customer complaints analysis in Table
 Tools: Tableau, Excel 
 
 ## Repository Content
-Credit Card Customer Analysis.twb : Tableau workbook file for the interactive dashboard.
+Credit Card Customer Analysis.twb : Tableau workbook file for the interactive dashboard.        
 CreditCard Complaints Files : Directory with files associated with the dashboard.        
 The link for dataset used for this analysis [DataSet](https://drive.google.com/drive/folders/1bFLIZ03GIavisLU2n9m1K8gldqEUNdNc)
 
