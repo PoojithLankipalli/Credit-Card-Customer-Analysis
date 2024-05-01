@@ -15,6 +15,7 @@ CreditCard Complaints Files : Directory with files associated with the dashboard
 The link for dataset used for this analysis [DataSet](https://drive.google.com/drive/folders/1bFLIZ03GIavisLU2n9m1K8gldqEUNdNc)
 
 ## Dashboard
+![Dashboard 1](https://github.com/PoojithLankipalli/Credit-Card-Customer-Analysis/assets/69042617/a935ed1e-1de4-458c-a571-445e3c278d84)
 
 
 
